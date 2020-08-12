@@ -5,7 +5,6 @@ File     : HomePage
 '''
 
 import unittest
-import HtmlTestRunner
 from Utility.browser_load import BrowserLoad
 from PageObject.home_page import HomePageObject
 from Utility.logs import Logs
